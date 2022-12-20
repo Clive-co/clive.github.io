@@ -681,6 +681,9 @@ hr{
         .details h1{
             font-size: xx-large;
         }
+        .b1{
+            background: url(../img/img5.jpg);
+        }
     }
 
     .icon{
@@ -743,14 +746,15 @@ hr{
 .thanks{
     font-weight: bolder;
     color: white;
-    font-size: 40px;
+    font-size: 35px;
     text-align: center;
     padding-bottom: 2px;
 }
 
 .thanks-message{
     text-align: center;
-    padding-bottom: 2px;
+    padding: 2px;
+    color: #777171;
 }
 
 .footer{
@@ -758,8 +762,13 @@ hr{
 }
     
 .center{
-    margin: auto;
-    width: 50%;
+    display: flex;
+    justify-content: center;
+}
+
+.b1{
+    background: url(../img/b2.jpg);
+    position: relative;
 }
 
 
