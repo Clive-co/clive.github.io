@@ -60,9 +60,6 @@ a:focus {
     border-color: #414141;
 }
 
-
-
-
 /**********************************/
 /*********** Nav Bar CSS **********/
 /**********************************/
@@ -490,7 +487,6 @@ a:focus {
     height: 130px;
     }
     .service .service-text {
-
     width: calc(100% - 120px);
     padding: 0 10px;
     }
